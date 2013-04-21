@@ -10,6 +10,7 @@ v3.0.0
 
 ### Improvement
 - **[COOK-3563](https://tickets.opscode.com/browse/COOK-3563)** - Replace calls to `Chef::Mixin::RecipeDefinitionDSLCore`
+- yoni@fewbytes.com added basic support for jetty
 
 v2.0.0
 ------
